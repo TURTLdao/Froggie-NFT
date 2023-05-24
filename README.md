@@ -3,6 +3,10 @@ Data for $FROGGIE NFT's on Cardano
 
 ***
 
+- [Metadata creator script](https://github.com/TURTLdao/Froggie-NFT/blob/main/create-metadata.sh) 
+
+***
+
 ## Hex Colour Scheme
 
 ```
